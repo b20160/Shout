@@ -2,12 +2,6 @@
   "autoPin": true,
   "pins": [
     {
-      "package": "CSSH",
-      "reason": null,
-      "repositoryURL": "https://github.com/b20160/CSSH",
-      "version": "1.0.0"
-    },
-    {
       "package": "Socket",
       "reason": null,
       "repositoryURL": "https://github.com/IBM-Swift/BlueSocket",
